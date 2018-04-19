@@ -6,8 +6,8 @@
 
 $config_nameserver = "refsinet.com"; // NAME SERVER HOTSPOT MIKROTIK
 
-$config_emailserver = "refsisangkay@gmail.com"; // EMAIL PENGIRIM PEMBERITAHUAN
-$config_emailpassword = "cmVmc2llbHpoYTA3"; // PASSWORD EMAIL di enskripsi dengan base64_encode()
+$config_emailserver = "dummy@gmail.com"; // EMAIL PENGIRIM PEMBERITAHUAN
+$config_emailpassword = "dummy"; // PASSWORD EMAIL di enskripsi dengan base64_encode()
  
  // membuat instance atau object dari class
  $API = new routerosAPI();
